@@ -22,8 +22,7 @@ After adding the highest BPM, I went to the playoffs for the last 10 seasons, an
 -   Since it is a vote, it can often be skewed by the media or the popularity of a player.
 -   Since it is a vote, it's technically an opinion.
 
-### test
-#### test
+
 
 
 This is a fictitious scenario created by the GitHub author for academic purposes only.
