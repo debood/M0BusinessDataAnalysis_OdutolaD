@@ -19,8 +19,8 @@ After adding the highest BPM, I went to the playoffs for the last 10 seasons, an
 - It is only based on the 4 - 7 game series of the Finals, not the entire playoffs, meaning it's a very small sample size
 - It is often rewarded to the best player on the team that wins the finals, meaning it is more dependent on others, which isn't exactly what we're analyzing
 - It is a vote by 11 media panelists
--   Since it is a vote, it can often be skewed by the media or the popularity of a player.
--   Since it is a vote, it's technically an opinion.
+  -   Since it is a vote, it can often be skewed by the media or the popularity of a player.
+  -   Since it is a vote, it's technically an opinion.
 
 
 
