@@ -1,5 +1,4 @@
-# M0BusinessDataAnalysis_OdutolaD
-
+# Business Understanding
 ## Question: How can someone identify a "Star" in the NBA?
 I'm approaching this question by looking at various honors that are awarded at the end of each season based on a player's statistics, both in the regular season and the playoffs. I want to make a note that once a person is considered a "star" one season, it is very hard for them to lose that title. It often takes multiple seasons of poor production. Some of the "stars" identified may be on a downward slope, and on the contrary, we may be able to predict who is going to be a "star" in the near future, along with recognizing current "stars". 
 
