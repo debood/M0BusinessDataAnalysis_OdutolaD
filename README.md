@@ -12,7 +12,7 @@ I'm approaching this question by looking at various honors that are awarded at t
 ## Data Collection
 The datasets that my business collects are statistics the box scores of NBA games. It also can go deeper into calculated statistics from the NBA websites, and other non-NBA affliated cites such as basketball-reference.com and statmuse.com.
 ## Data Processing
-To process the data, we must extract the statistics that matter and make sure that every player qualifies for what we're looking for. For an example if a player plays for 1 minute and scores 3 points, their stats per 36 minute would be 108 points.
+To process the data, we must extract the statistics that matter and make sure that every player qualifies for what we're looking for. For an example if a player plays for 1 minute and scores 3 points, their stats per 36 minute would be 108 points. Statistics like that give a false impression of players performance and may 
 ## Data Analysis
 ## Data Presentation
 
