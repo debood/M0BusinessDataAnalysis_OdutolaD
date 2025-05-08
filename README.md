@@ -48,4 +48,19 @@ After adding the highest BPM, I went to the playoffs for the last 10 seasons, an
 # Step 2: Data Analysis + Processing in Python
 In addition to analyzing the data in Excel, I also used a Python notebook (.ipun) to process and analyze my data. I imported the CSV module and then opened the last 10 complete Regular Seasons and the last 10 complete Playoffs. First, to get a grasp of the CSV functions, I opened the regular season CSV as a readable file, and printed the headers and the first 5 rows of data. Upon doing that, I noticed that there was also unnecessary data in this set. Appropriately, the next step was to open the regular season file, then rewrite only the data columns the were crucial to analyze the data. After removing the 4 nonessential columns, I used a basic for loop to print the adjusted CSV into a new file, and repeated the same steps for the Playoffs Data.
 
+# Step 3: Data Types Explanation
+The majority of stats in the NBA are quantitative discrete data values because they are the total of whole numbers. When the statistics analyzed are player minutes or are measured per unit, then it becomes a continuous data value. While it is possible for NBA players to be catagorized through qualitative, non-numerical data such as weaknesses, tendencies, teams, etc., I did not explore any of that data in my analysis.
+
+# Conclusion
+## This module taught me how to:
+- Use GitHub and the corresponding terminal commands.
+  - How to create a repository, navigate through files, and edit them on the cloud
+  - Version Control
+  - Forking, cloning, pushing, pull request
+- How to manage .csv and .json files on Python
+  - Indexing, Printing, Deleting, Appending
+- Data Types
+  - Quantitative vs. Qualitative
+  - Numerical vs Non-numerical
+
 This is a fictitious scenario created by the GitHub author for academic purposes only.
