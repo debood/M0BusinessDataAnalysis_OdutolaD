@@ -1,5 +1,7 @@
 # Business Understanding
 
+The company provides objective insights into NBA player performance by analyzing statistical data to identify star players—those with exceptional skill, impact, or potential. It goes beyond surface-level metrics like points per game, using advanced analytics to capture efficiency, consistency, impact on team success, and more.
+This company provides insights into NBA player performance by analyzing statistical data to identify star players. Those with exceptional skill, impact, and/or potential. It goes beyond surface-level data such as Points Per Game
 # Data Lifecycle
 
 
